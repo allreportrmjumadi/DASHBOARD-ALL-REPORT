@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard All Report</title>
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+        iframe { width: 100%; height: 100%; border: none; }
+    </style>
+</head>
+<body>
+    <!-- Ganti tulisan URL_WEB_APP_GAS_ANDA dengan link web app Executable dari App Script -->
+    <iframe src="[URL_WEB_APP_GAS_ANDA](https://script.google.com/macros/s/AKfycbyY-ct8oSNvuysxLjKSOw9RS4nkK7bDkr3rKj34XQayigcrGIuYSUyUf4rX5OghMaOH/exec)"></iframe>
+</body>
+</html>
