@@ -9,6 +9,6 @@
 </head>
 <body>
     <!-- Ganti tulisan URL_WEB_APP_GAS_ANDA dengan link web app Executable dari App Script -->
-    <iframe src="[URL_WEB_APP_GAS_ANDA](https://script.google.com/macros/s/AKfycbyY-ct8oSNvuysxLjKSOw9RS4nkK7bDkr3rKj34XQayigcrGIuYSUyUf4rX5OghMaOH/exec)"></iframe>
+    <iframe src="https://script.google.com/macros/s/AKfycbyY-ct8oSNvuysxLjKSOw9RS4nkK7bDkr3rKj34XQayigcrGIuYSUyUf4rX5OghMaOH/exec"></iframe>
 </body>
 </html>
